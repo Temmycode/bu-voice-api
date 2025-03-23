@@ -1,0 +1,60 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# Pytest files
+.cache/
+
+# MyPy type checker
+.mypy_cache/
+
+# Profiling data
+.prof/
+
+# Testing output
+.tox/
+.nox/
+
+# Local database
+*.sqlite3
+
+# Secrets
+*.env
